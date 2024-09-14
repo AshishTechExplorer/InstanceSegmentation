@@ -1,5 +1,4 @@
 # InstanceSegmentation
 For Instance Segmentation
 
-Segmentation_Detectron.ipynb
-Segmentation.ipynb
+Segmentation_Detectron.ipynb => Segmentation.ipynb
